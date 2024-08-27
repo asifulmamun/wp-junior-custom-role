@@ -1,0 +1,15 @@
+{
+    "name": "asifulmamun/wp_junior_custom_role",
+    "autoload": {
+        "psr-4": {
+            "Backend\\": "Backend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asifulmamun",
+            "email": "asifulmamun@gmail.com"
+        }
+    ],
+    "require": {}
+}
